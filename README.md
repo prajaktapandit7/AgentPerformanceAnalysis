@@ -1,4 +1,4 @@
-# 📊 Roku Support Bot Evaluation  
+# Roku Support Bot Evaluation  
 Conversation-Level Performance Analysis (30 Case Study Review)
 
 ---
