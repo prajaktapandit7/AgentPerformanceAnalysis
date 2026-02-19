@@ -41,7 +41,7 @@ Percentage of conversations where the bot correctly interpreted user intent.
 **Recontact Rate (Proxy)**  
 Estimated based on conversations where intent was not accurate (assumption: unresolved intent increases likelihood of repeat contact).
 
-**CSAT Score Distribution**
+**CSAT Score Logic**
 - 1 = Positive
 - 0 = Neutral
 - -1 = Negative
