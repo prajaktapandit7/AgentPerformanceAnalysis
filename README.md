@@ -95,6 +95,8 @@ This hybrid approach (manual + LLM-assisted clustering) improved consistency whi
 
 ## Key Findings
 
+Data visualiztion using Looker dashboard
+
 <img width="893" height="614" alt="image" src="https://github.com/user-attachments/assets/b57431b9-c292-4317-a7c4-da6ef82f9772" />
 
 
